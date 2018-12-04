@@ -1,0 +1,21 @@
+1. Create a class named "Computer" which has several private attributes and public methods so get and set these attributes. The class also needs to have a constructor which sets the value of all attributes from its parameters.
+Then create a console application that will prompt the user to enter the number of computers, and then allow him/her to input all the information about each computer. After everything is input, the program must be able to output all the information about a certain computer (chosen by user).
+
+Use C++. Write comments (in English) to explain your code.
+
+
+2. Create a program that asks a user to input 2 strings, X and Y. The program must then replace the values of X and Y, without using any additional variables as a temporary storage.
+For example: if X = "string1" and Y = "string2", the end of the program should be something like "cout << X << ' ' << Y;" which would output "string2 string1".
+
+Hints: You can store the metadata in other variables, for example the length of a particular string. But you can't store either X or Y or any part of them (any character or its ASCII code) to another variable.
+
+Use whatever programming language you want. Write comments (in English) to explain your code.
+
+
+3. A user inputs two integers: A and B. The program should output: (1) Memory locations of both A and B.
+
+Use C++. Write comments (in English) to explain your code.
+
+4. A user inputs 10 integers (into a dynamic C++ array). Declare two pointers Pmax and Pmin and make them point to max and min values from the array. Output min and max values and their memory addresses by using Pmax and Pmin.
+
+Use C++. Write comments (in English) to explain your code.

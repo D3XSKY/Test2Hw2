@@ -1,0 +1,10 @@
+Exercise
+Make a program that does the following:
+1. Prompts user to enter the number of students, and then to input all
+the following data about students: id, gender and year of birth.
+2. Prompts user to enter student id and then, if such student exists,
+user is offered to enter the number of grades and then each grade
+for that particular student.
+3. Print all the data about all students.
+HINTS: Create as many classes as you think is necessary. Use dynamic
+arrays.

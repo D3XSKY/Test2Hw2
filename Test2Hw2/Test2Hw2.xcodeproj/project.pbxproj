@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		2F30E99521B6ED8A008A5810 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F30E99421B6ED8A008A5810 /* main.cpp */; };
 		2F30E99E21B73D09008A5810 /* Computer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F30E99C21B73D09008A5810 /* Computer.cpp */; };
+		2F31841D21B89CEE005300DA /* HomeworkTwo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F31841B21B89CEE005300DA /* HomeworkTwo.cpp */; };
+		2F31842021B89F51005300DA /* HomeworkThree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F31841E21B89F51005300DA /* HomeworkThree.cpp */; };
+		2F31842321B8A1BA005300DA /* HomeworkFour.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F31842121B8A1BA005300DA /* HomeworkFour.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +31,12 @@
 		2F30E99421B6ED8A008A5810 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2F30E99C21B73D09008A5810 /* Computer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Computer.cpp; sourceTree = "<group>"; };
 		2F30E99D21B73D09008A5810 /* Computer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Computer.hpp; sourceTree = "<group>"; };
+		2F31841B21B89CEE005300DA /* HomeworkTwo.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HomeworkTwo.cpp; sourceTree = "<group>"; };
+		2F31841C21B89CEE005300DA /* HomeworkTwo.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HomeworkTwo.hpp; sourceTree = "<group>"; };
+		2F31841E21B89F51005300DA /* HomeworkThree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HomeworkThree.cpp; sourceTree = "<group>"; };
+		2F31841F21B89F51005300DA /* HomeworkThree.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HomeworkThree.hpp; sourceTree = "<group>"; };
+		2F31842121B8A1BA005300DA /* HomeworkFour.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HomeworkFour.cpp; sourceTree = "<group>"; };
+		2F31842221B8A1BA005300DA /* HomeworkFour.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = HomeworkFour.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +72,12 @@
 				2F30E99421B6ED8A008A5810 /* main.cpp */,
 				2F30E99C21B73D09008A5810 /* Computer.cpp */,
 				2F30E99D21B73D09008A5810 /* Computer.hpp */,
+				2F31841B21B89CEE005300DA /* HomeworkTwo.cpp */,
+				2F31841C21B89CEE005300DA /* HomeworkTwo.hpp */,
+				2F31841E21B89F51005300DA /* HomeworkThree.cpp */,
+				2F31841F21B89F51005300DA /* HomeworkThree.hpp */,
+				2F31842121B8A1BA005300DA /* HomeworkFour.cpp */,
+				2F31842221B8A1BA005300DA /* HomeworkFour.hpp */,
 			);
 			path = Test2Hw2;
 			sourceTree = "<group>";
@@ -124,6 +139,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F30E99E21B73D09008A5810 /* Computer.cpp in Sources */,
+				2F31841D21B89CEE005300DA /* HomeworkTwo.cpp in Sources */,
+				2F31842021B89F51005300DA /* HomeworkThree.cpp in Sources */,
+				2F31842321B8A1BA005300DA /* HomeworkFour.cpp in Sources */,
 				2F30E99521B6ED8A008A5810 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

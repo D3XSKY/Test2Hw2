@@ -35,3 +35,5 @@
 *.plist
 *.xcsettings
 *.xcbkptlist
+*.xcuserstate
+*.xcuserstate

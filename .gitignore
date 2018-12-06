@@ -37,3 +37,8 @@
 *.xcbkptlist
 *.xcuserstate
 *.xcuserstate
+*.pbxproj
+*.xcworkspacedata
+*.plist
+*.xcuserstate
+*.plist
